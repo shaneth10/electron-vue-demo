@@ -3,7 +3,7 @@
 
 # electron-vue-project
 
-> An electron-vue & elementUI project
+> An electron-vue && elementUI project
 
 #### 开发步骤
 
