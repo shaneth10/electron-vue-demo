@@ -6,12 +6,17 @@
 > An electron-vue & elementUI project
 
 ``` bash
-安装vue-cli: npm install -g vue-cli
-初始化一个electron-vue项目: vue init simulatedgreg/electron-vue ./
-下载依赖: yarn
-本地启动: yarn run dev
-打包: yarn build
-、、、
+# 安装vue-cli
+npm install -g vue-cli
+# 初始化一个electron-vue项目
+vue init simulatedgreg/electron-vue ./
+# 下载依赖
+yarn
+# 本地启动
+yarn run dev
+# 打包
+yarn build
+```
 
 #### Build Setup
 
