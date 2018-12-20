@@ -1,9 +1,17 @@
 # electron-vue-demo
 用electron-vue以及elementUI搭建一个brew的桌面版
 
-# my-project
+# electron-vue-project
 
-> An electron-vue project
+> An electron-vue & elementUI project
+
+``` bash
+安装vue-cli: npm install -g vue-cli
+初始化一个electron-vue项目: vue init simulatedgreg/electron-vue ./
+下载依赖: yarn
+本地启动: yarn run dev
+打包: yarn build
+、、、
 
 #### Build Setup
 
