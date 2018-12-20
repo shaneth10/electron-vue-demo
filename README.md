@@ -5,6 +5,10 @@
 
 > An electron-vue & elementUI project
 
+#### 开发步骤
+
+> 首先按照[SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue)的Getting Started把环境建立起来
+
 ``` bash
 # 安装vue-cli
 npm install -g vue-cli
@@ -29,8 +33,6 @@ npm run dev
 
 # build electron application for production
 npm run build
-
-
 ```
 
 ---
